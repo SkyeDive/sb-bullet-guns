@@ -1,0 +1,13 @@
+{
+  "itemName" : "bullet",
+  "price" : 0,
+  "rarity" : "rare",
+  "inventoryIcon" : "/projectiles/guns/bullets/bullet-1/icon.png",
+  "description" : "Damage: +0.5\nA good old-fashioned bullet.",
+  "shortdescription" : "Bullet",
+  "itemTags" : [ "example" ],
+  "tooltipKind" : "base",
+  "category" : "ammunition",
+  "ammunitionDamage" : 0.5,
+  "projectileType" : "bullet-1"
+}

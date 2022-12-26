@@ -1,0 +1,3 @@
+[
+    [{"op":"test","inverse":true,"path":"/labels/ammunition"},{"op": "add","path": "/labels/ammunition","value": "Ammunition"}]
+]

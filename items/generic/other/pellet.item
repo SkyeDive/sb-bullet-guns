@@ -1,0 +1,13 @@
+{
+  "itemName" : "pellet",
+  "price" : 0,
+  "rarity" : "Common",
+  "inventoryIcon" : "/projectiles/guns/bullets/pellet/icon.png",
+  "description" : "Damage: +0.25\nA small pellet bullet, not unlike a musket ball.",
+  "shortdescription" : "Pellet",
+  "itemTags" : [ "example" ],
+  "tooltipKind" : "base",
+  "category" : "ammunition",
+  "ammunitionDamage" : 0.25,
+  "projectileType" : "pellet"
+}
